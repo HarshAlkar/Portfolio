@@ -28,7 +28,7 @@ I’ve focused on:
 
 ## 📁 Folder Structure
 
-├── public/             # Static assets
+```├── public/             # Static assets
 ├── src/                # Source code
 │   ├── components/     # Reusable components
 │   ├── pages/          # Page components
@@ -38,7 +38,7 @@ I’ve focused on:
 ├── tailwind.config.ts  # Tailwind CSS configuration
 ├── vite.config.ts      # Vite configuration
 └── tsconfig.json       # TypeScript configuration
-
+```
 ---
 
 ## 🎯 Key Features
@@ -53,7 +53,7 @@ I’ve focused on:
 
 ## 📸 Preview
 
-> _You can add screenshots or GIF previews here to give visitors a quick glance at your portfolio UI._
+DALUNGA BAADMAIN
 
 ---
 
